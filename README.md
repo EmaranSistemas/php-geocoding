@@ -1,4 +1,4 @@
-# PHP-Geocoding
+# PHP-Geocoding gg
 This is a simple PHP library to (reverse-)geocode addresses with the Nominatim API.
 
 > <b>Legal Note:</b> This library uses the [Nominatim](https://nominatim.org/) API. Please read the [Terms of Use](https://operations.osmfoundation.org/policies/nominatim/) before using it and comply with them.
